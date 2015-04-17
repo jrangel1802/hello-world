@@ -9,3 +9,4 @@ I have to learn very quickly in order to use this site. I would apreciate your h
 
 This is the first version. It's only for learn to use this platform. 
 Sorry for my bad english.
+Continue in https://guides.github.com/activities/hello-world/ 
