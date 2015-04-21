@@ -16,3 +16,16 @@ Esto es una lista no ordenada:
 * Primer elemento
 * Segundo elemento
 * Tercer elemento
+
+Para incluir código en el documento de texto, debe usarse la siguiente etiqueta:
+`summary(variable)`
+
+Luego aparece el texto en el formato habitual...
+
+## Lista de tareas
+- [ ] Revisar documentación.
+- [ ] Redactar objetivos.
+- [x] Tomar cerveza.
+- [x] Pagar ISLR.
+
+## 
